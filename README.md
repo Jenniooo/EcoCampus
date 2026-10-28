@@ -1,70 +1,122 @@
+
 # ♻️ EcoCampus — Sustentabilidade em Jogo
 
-**Transformando a conscientização ambiental em uma experiência divertida na UNINASSAU!**
+> **Transformando a conscientização ambiental em uma experiência divertida na UNINASSAU!**
 
-## 📌 Sobre o projeto
+🔗 **Acesse o jogo:** [EcoCampus — Play Online](https://sites.google.com/view/ecocampusmanager/full-page-embed)
 
-O **EcoCampus** é um jogo educativo desenvolvido para incentivar os estudantes da UNINASSAU a descartarem o lixo corretamente, promovendo a sustentabilidade dentro do ambiente universitário.
+---
 
-Inspirado na mecânica de *My Perfect Hotel*, o jogo coloca o jogador no papel de responsável pela limpeza da faculdade, enquanto os estudantes circulam pelos ambientes e deixam resíduos espalhados. O objetivo é coletar o lixo, separá-lo corretamente e manter os espaços limpos.
+## 📌 Sobre o Projeto
+
+O **EcoCampus** é um jogo educativo desenvolvido para incentivar os estudantes da **UNINASSAU** a descartarem o lixo corretamente, promovendo a sustentabilidade dentro do ambiente universitário.
+
+Inspirado na mecânica de *My Perfect Hotel*, o jogo coloca o jogador no papel de responsável pela limpeza da faculdade, enquanto os estudantes circulam pelos ambientes e deixam resíduos espalhados. O objetivo principal é **coletar o lixo**, **separá-lo corretamente** e **manter os espaços limpos**.
+
+---
 
 ## 🎯 Objetivos
 
-- Incentivar o descarte correto de resíduos.
-- Ensinar o significado das cores das lixeiras.
-- Promover a educação ambiental de forma interativa.
-- Estimular hábitos sustentáveis por meio de missões e recompensas.
-- Tornar o ambiente universitário mais limpo e consciente.
+* **Incentivar** o descarte correto de resíduos.
+* **Ensinar** o significado das cores das lixeiras de coleta seletiva.
+* **Promover** a educação ambiental de forma leve e interativa.
+* **Estimular** hábitos sustentáveis por meio de missões e recompensas.
+* **Tornar** o ambiente universitário mais limpo, agradável e consciente.
 
-## 🗑️ Sistema de coleta seletiva
+---
 
-No início do jogo, o jogador recebe instruções sobre as cores das lixeiras e os tipos de resíduos correspondentes.
+## 🗑️ Sistema de Coleta Seletiva
 
-| Cor | Tipo de resíduo |
-|---|---|
-| 🔵 Azul | Papel |
-| 🔴 Vermelho | Plástico |
-| 🟡 Amarelo | Metal |
-| 🟢 Verde | Vidro |
-| 🟤 Marrom | Resíduos orgânicos |
+No início do jogo, o jogador recebe instruções sobre as cores das lixeiras e os tipos de resíduos correspondentes:
 
-Se o jogador descartar um resíduo na lixeira errada, o jogo exibe uma mensagem educativa indicando a lixeira correta, reforçando o aprendizado durante a partida.
+| Cor | Tipo de Resíduo |
+| --- | --- |
+| 🔵 **Azul** | Papel |
+| 🔴 **Vermelho** | Plástico |
+| 🟡 **Amarelo** | Metal |
+| 🟢 **Verde** | Vidro |
+| 🟤 **Marrom** | Resíduos Orgânicos |
 
-## 🎮 Como funciona o jogo?
+> ⚠️ **Feedback Educativo:** Se o jogador descartar um resíduo na lixeira incorreta, o jogo exibe uma mensagem orientativa indicando a lixeira adequada, reforçando o aprendizado de forma contínua durante a partida.
 
-1. **Aprenda:** conheça as cores das lixeiras e os tipos de resíduos.
-2. **Explore:** utilize o mapa para se orientar pelos cômodos e ambientes da faculdade.
-3. **Colete:** recolha os resíduos espalhados pelos estudantes.
-4. **Separe:** leve cada resíduo até a lixeira correspondente.
-5. **Complete missões:** cumpra objetivos e receba recompensas.
-6. **Evolua:** utilize o dinheiro virtual para comprar melhorias e tornar a limpeza mais eficiente.
+---
 
-## 🚀 Sistema de progressão
+## 🎮 Como Funciona o Jogo?
+
+1. **Aprenda:** Conheça as cores das lixeiras e identifique cada tipo de resíduo.
+2. **Explore:** Utilize o mapa para se orientar pelos ambientes da faculdade.
+3. **Colete:** Recolha os resíduos espalhados pelo campus.
+4. **Separe:** Leve cada resíduo até a lixeira correspondente.
+5. **Complete Missões:** Cumpra objetivos diários e receba recompensas.
+6. **Evolua:** Utilize as moedas virtuais para comprar melhorias e otimizar a limpeza.
+
+---
+
+## 🚀 Sistema de Progressão
 
 O jogo conta com melhorias que ajudam o jogador a evoluir e cumprir suas tarefas com mais eficiência:
 
-- **Capacidade de coleta:** inicialmente, o jogador pode carregar até 5 resíduos por vez. Com as melhorias, essa capacidade aumenta.
-- **Velocidade:** permite se movimentar mais rapidamente pelos ambientes.
-- **EcoRobô:** um assistente que ajuda na limpeza da faculdade.
-- **Recompensas:** o jogador ganha dinheiro virtual ao realizar descartes corretos e completar missões.
+* **Capacidade de Coleta:** Inicialmente, o jogador pode carregar até **5 resíduos** por vez. Com as melhorias, essa capacidade aumenta.
+* **Velocidade de Movimento:** Permite se deslocar mais rapidamente pelos ambientes do campus.
+* **EcoRobô:** Um assistente virtual automatizado que auxilia na coleta de resíduos.
+* **Recompensas:** Ganhe moedas virtuais a cada descarte correto e missão concluída.
 
-## 🗺️ Mapa interativo
+---
 
-O jogo possui um mapa para orientar o jogador pelos diferentes cômodos da faculdade, facilitando a localização dos ambientes e tornando a experiência mais dinâmica.
+## 🗺️ Mapa Interativo
 
-## 🌱 Impacto esperado
+O jogo possui um mapa intuitivo para orientar o jogador pelos diferentes blocos e ambientes da faculdade, facilitando a localização das estações de coleta seletiva e tornando a navegação dinâmica.
 
-O EcoCampus busca aproximar a tecnologia da educação ambiental, mostrando que aprender sobre sustentabilidade pode ser divertido e fazer parte da rotina acadêmica.
+---
 
-A proposta é incentivar mudanças de comportamento que ultrapassem o jogo e contribuam para uma universidade mais limpa, organizada e sustentável.
+## 🛠️ Tecnologias Utilizadas
+
+O EcoCampus foi desenvolvido com tecnologias web modernas, permitindo uma experiência interativa, tridimensional e acessível diretamente pelo navegador:
+
+* **HTML5:** Estruturação da interface do jogo (menus, HUD, inventário, missões e modais).
+* **CSS3:** Estilização visual, animações e responsividade da interface.
+* **Tailwind CSS:** Framework utilitário para agilizar a estilização e padronização dos componentes.
+* **JavaScript (ES6+):** Lógica principal do jogo, sistema de pontuação, inventário, colisões e melhorias.
+* **Three.js:** Renderização e modelagem do ambiente 3D (personagem, prédios, lixeiras e objetos).
+* **Font Awesome:** Ícones vetoriais para interface de usuário (moedas, mapas, status e ações).
+
+---
+
+## 🤖 Inteligência Artificial no Desenvolvimento
+
+Durante a criação do **EcoCampus**, utilizamos o **Google Gemini** (IA Generativa) como ferramenta de apoio ao desenvolvimento técnico e conceitual.
+
+A IA auxiliou em etapas como:
+
+* Estruturação e otimização do código-fonte.
+* Design de interface e experiência do usuário (UI/UX).
+* Modelagem da lógica das mecânicas de jogo e refatoração.
+* Prototipagem rápida e resolução de desafios técnicos em Three.js.
+
+O uso da IA permitiu acelerar a entrega mantendo o foco da equipe na proposta pedagógica e no impacto social da aplicação.
+
+---
+
+## 🌱 Impacto Esperado
+
+O **EcoCampus** busca conectar a tecnologia à educação ambiental, provando que a conscientização sustentável pode ser integrada à rotina acadêmica de forma produtiva e divertida.
+
+Esperamos gerar mudanças reais de comportamento que ultrapassem a tela do jogo e resultem em um campus universitário mais limpo, consciente e sustentável.
+
+---
 
 ## 🏆 Hackathon
 
-Projeto desenvolvido para um hackathon com foco em inovação, sustentabilidade e conscientização ambiental no ambiente universitário.
+Projeto desenvolvido no âmbito de um **Hackathon** com foco em inovação, sustentabilidade e impacto social no ambiente universitário, utilizando gamificação para transformar a coleta seletiva em hábito.
 
-## 👥 Equipe
+---
 
-Desenvolvido por estudantes da UNINASSAU.
+## 👥 Equipe Desenvolvedora
+
+* **Jennifer Anne Magalhães Oliveira**
+* **Nicolly Ferreira Alves**
+* **Gabriel da Silva Cunha**
+* **Paulo Ian Cavalcante França**
 
 ---
 
