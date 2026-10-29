@@ -82,6 +82,22 @@ O EcoCampus foi desenvolvido com tecnologias web modernas, permitindo uma experi
 * **Three.js:** Renderização e modelagem do ambiente 3D (personagem, prédios, lixeiras e objetos).
 * **Font Awesome:** Ícones vetoriais para interface de usuário (moedas, mapas, status e ações).
 
+
+---
+
+## 👥 Equipe no desenvolvimento
+
+A equipe foi responsável pela concepção e pelo desenvolvimento do **EcoCampus**, desde a definição da proposta até a construção das funcionalidades do jogo.
+
+A Equipe foi responsável por:
+
+* Idealização e planejamento: definição do objetivo do projeto e da proposta de conscientização ambiental por meio da gamificação.
+* Definição das mecânicas: planejamento dos sistemas de coleta seletiva, missões, recompensas, moedas virtuais e melhorias.
+* Desenvolvimento da interface: organização dos menus, indicadores, inventário, mapa e elementos visuais.
+* Implementação das funcionalidades: integração das mecânicas de movimentação, coleta e descarte de resíduos e progressão do jogador.
+* Proposta educativa: definição das orientações sobre coleta seletiva e dos feedbacks que reforçam o aprendizado.
+* Apresentação do projeto: preparação do pitch e comunicação da proposta, das funcionalidades e do impacto esperado.
+
 ---
 
 ## 🤖 Inteligência Artificial no Desenvolvimento
