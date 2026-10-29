@@ -5,6 +5,8 @@
 
 🔗 **Acesse o jogo:** [EcoCampus — Play Online](https://sites.google.com/view/ecocampusmanager/full-page-embed)
 
+🔗 **Acesse o pitch:** [Pitch de Apresentação do EcoCampus Hackathon Uninassau 2026.2](https://youtu.be/Vh6pxzbviUY?si=sWlmgzN0dE8wf9FJ)
+
 ---
 
 ## 📌 Sobre o Projeto
